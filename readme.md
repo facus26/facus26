@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Facundo Juarez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <a target="_blank" align="center" href="https://www.linkedin.com/in/facundo-alejo-juarez">
-  <img align="center" width="100%" alt="GIF" src="https://media.licdn.com/dms/image/v2/D4D16AQEGbDGRa_jE0A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711985065179?e=1730937600&v=beta&t=RWiIImB147Zh8YQPpsN_kKzpOQVK3TeWIaA2W0_cFso">
+  <img align="center" width="100%" alt="GIF" src="https://github.com/facus26/facus26/blob/main/public/banner.png?raw=true">
 </a>
 <br />
 <br />
